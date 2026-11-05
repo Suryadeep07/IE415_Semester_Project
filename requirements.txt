@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+opencv-python>=4.8
+gtsam
+streamlit
+plotly
